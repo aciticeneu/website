@@ -128,11 +128,13 @@ Yes, we want to gather a community of EU supporters. It does not matter to us wh
 
 No. It just means that you **also** identify as a European citicen.
 
+#### Can I sign this statement with Facebook?
+
+No - not yet. We are working on it.
+
 #### What is your plan?
 
 Right now, we are trying to gather people who want to see the EU succeed, and who want to contribute to that success. After the initial phase of gathering people, we want to start projects to improve the EU and the life of europeans. For this, we will need money and volunteers, later.
-
-## Who we are
 
 <footer>
 
