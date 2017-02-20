@@ -1,7 +1,8 @@
 <footer>
 
 * [Home](index.html)
-* [Imprint](imprint.html)
 * [Sign](sign.html#top)
+* [Mission](mission.html)
+* [Imprint](imprint.html)
 
 </footer>
