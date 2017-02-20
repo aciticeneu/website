@@ -8,11 +8,3 @@ Please sign the ["A Citizen" Statement](index.html) to show that you are a proud
 2. [Click here](TK) to Tweet your statement.
 
 After you tweeted your statement, we will automatically register you as a follower.
-
-<footer>
-
-* [Home](index.html)
-* [Imprint](imprint.html)
-* [Sign](sign.html)
-
-</footer>

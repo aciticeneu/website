@@ -1,7 +1,10 @@
-# aciticen
-## nnn People
-### Already Signed this Statement
+<section class="banner statement">
+<h1 class="title logo"><span class="glow">a</span>citicen</h1>
+<h2><span id="number-signees">nnn</span> People</h2>
+<h3>Already Signed this Statement</h3>
+</section>
 
+<section class="main">
 > I am a European citicen. I want a democratic, effective, social, environmentally friendly EU. I want the EU to be a global leader towards a peaceful, sustainable, prosper future.
 
 [Sign this statement...](sign.html)
@@ -10,21 +13,35 @@
 
 We are european citicens and we believe in the EU, but that does not mean we are completely satisfied with how things are. We want a better EU...
 
+<div class="four-columns">
+<div class="column">
+
 ### A democratic EU
 
 The EU does not have a truly elected government, and the Parliament - the only institution elected directly by the people - does not have enough power. We need a true EU government that the people of the EU can identify with. And we need more democratic processes.
+</div>
+
+<div class="column">
 
 ### An effective EU
 
 During the debate about the EU constitution, the refugee crisis and on other occasions, we saw that the EU is not very effective in making desisions. Sometimes it is even trapped in a complete deadlock, because countries block every decision with a veto. We need an EU that can react and do the right thing quickly!
+</div>
+
+<div class="column">
 
 ### A social EU
 
 Prosperity, freedom and peace for everybody - That's what we expect the EU to give us, not just free trade or cheap roaming. We think that the EU should align it's efforts around those benefits, and communicate better that many of it's policies actually give us those.
+</div>
+
+<div class="column">
 
 ### A green EU
 
 We have to become even better at not destroying our planet. We want the EU to put even more focus on the environment and on sustainability. This will make the EU more livable, create jobs, and ensure that we leave the world in a condition where our children and grandchildren can live well and prosper.
+</div>
+</div>
 
 The EU is great, but we think it must become even better. Join our movement to show everyone that you want a better EU, and so we can reach out to you when we start any projects for making the EU better.
 
@@ -33,6 +50,9 @@ The EU is great, but we think it must become even better. Join our movement to s
 ## We Want to be Global Leaders
 
 Right now, the EU often seems to be stuck while others make global politics. We want this to change - We want to be world leaders. Not by using force, but leading by example.
+
+<div class="with-image">
+<div class="text-block">
 
 ### Towards a Peaceful Future
 
@@ -45,6 +65,9 @@ The way we treat our planet right now is not sustainable. The EU can - and **mus
 ### Towards a Prosper Future
 
 Peace and a working, healthy society can only happen when there is social justice and everyone can live a prosper, healthy live. We have to ensure that everybody gets a fair chance, not only the rich.
+</div>
+<div class="image global-leaders"></div>
+</div>
 
 The EU has to grow up. It has to see itself as a global super-power, not just a loose connection of nation states. But not a super power that threatens to invade or destroy others - A super power that is a global leader towards a better future for **everybody on this planet**.
 
@@ -54,17 +77,26 @@ The EU has to grow up. It has to see itself as a global super-power, not just a 
 
 Globalization will not stop. And this is a good thing - The world will move closer together, and it will ultimately become a better place. But we have to find - and constantly redefine - our place in this globalized world.
 
+<div class="three-columns">
+<div class="column">
+
 ### We Have to Move Closer Together
 
 When we only cater to the interests of local communities and nations states, we will have no chance in a globalized world. When we raise fences at our borders and close down our economies, only the rest of the world will profit. When we work together, Europe can be a global player!
+</div>
+<div class="column">
 
 ### We Have to Stand our Ground
 
 We cannot lower our standards. We have to fight for democracy, human rights and freedom of the press - within the EU and in our neighboring countries. We have to speak up when we see injustice. This also means that we have to become much better at handling the humanitarian crisis that are happening now, at our doorstep.
+</div>
+<div class="column">
 
 ### We Have to Fight for Justice
 
 When there is something wrong, we must fix it. Right now, the EU is moving too slowly. It is even often stuck in a dead-lock. This has to change. Europe has to do even more to fight for human rights, freedom and justice.
+</div>
+</div>
 
 Together, we can lobby politicians to break the deadlocks, to make the EU better and more effective. Not as a group of wealthy, shady lobbyists, but as a grass-roots movement of Europeans who care for their continent.
 
@@ -73,6 +105,11 @@ Together, we can lobby politicians to break the deadlocks, to make the EU better
 ## We Want the Four Freedoms
 
 Protectionist politicians want to cut down on the four freedoms the EU guarantees to everyone of us. They say that those freedoms destroy jobs and support criminals. But the opposite is true: Those freedoms create a level playing field: Everyone of us has the same chances, no matter where in the EU they come from!
+
+<div class="with-image">
+<div class="image four-freedoms"></div>
+
+<div class="text-block">
 
 ### Free Movement of People
 
@@ -89,6 +126,8 @@ Just as with goods, every business can deliver their services everywhere in the 
 ### Free Movement of Capital
 
 Transferring money across the EU has become so easy and so cheap that it is even hard to remember how that worked before the Euro and before the Single European Payment Area (SEPA). There is less hassle for businesses and customers, which means more value and more jobs.
+</div>
+</div>
 
 Sure, we have to avoid a race to the bottom. We have to avoid lowering income levels as a result of cheap labour that exists somewhere else in the EU. But this does not mean we have to give up our freedoms. Instead we have to create a race to the top!
 
@@ -136,10 +175,4 @@ No - not yet. We are working on it.
 
 Right now, we are trying to gather people who want to see the EU succeed, and who want to contribute to that success. After the initial phase of gathering people, we want to start projects to improve the EU and the life of europeans. For this, we will need money and volunteers, later.
 
-<footer>
-
-* [Home](index.html)
-* [Imprint](imprint.html)
-* [Sign](sign.html)
-
-</footer>
+</section>
