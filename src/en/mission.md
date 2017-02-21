@@ -1,4 +1,9 @@
+<div class="banner thin" style="background-image: url('../resources/images/banner-mission.jpg')">
+
 # Mission
+
+</div>
+<section class="main">
 
 We want to gather a community of pro-EU citizens arount this website and its Twitter and Facebook presence. Together with them, we want to start projects and actions that aim to improve life and politics in the EU.
 
@@ -11,3 +16,5 @@ We want to gather a community of pro-EU citizens arount this website and its Twi
 Do you want to join this community? Check out [what this community stands for](index.html). And then:
 
 [Sign our statement...](sign.html)
+
+</section>

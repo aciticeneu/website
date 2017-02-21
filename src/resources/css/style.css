@@ -93,6 +93,7 @@ h1 {
 }
 .banner.thin {
 	height: 50vh;
+	padding: 25vh 2em 0 2em;
 }
 
 .main {
