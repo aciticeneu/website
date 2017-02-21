@@ -1,4 +1,4 @@
-<section class="banner statement">
+<section class="banner full-height" style="background-image: url('../resources/images/banner_statement.jpg')">
 <h1 class="title logo"><span class="glow">a</span>citicen</h1>
 <h2><span id="number-signees">nnn</span> People</h2>
 <h3>Already Signed this Statement</h3>
@@ -66,12 +66,17 @@ The way we treat our planet right now is not sustainable. The EU can - and **mus
 
 Peace and a working, healthy society can only happen when there is social justice and everyone can live a prosper, healthy live. We have to ensure that everybody gets a fair chance, not only the rich.
 </div>
-<div class="image global-leaders"></div>
+<div class="image" style="background-image: url('../resources/images/global-leaders.jpg')"></div>
 </div>
 
 The EU has to grow up. It has to see itself as a global super-power, not just a loose connection of nation states. But not a super power that threatens to invade or destroy others - A super power that is a global leader towards a better future for **everybody on this planet**.
 
 [Join our movement: Sign this statement...](sign.html)
+</section>
+
+<div class="banner thin" style="background-image: url('../resources/images/banner-global-economy.jpg')"></div>
+
+<section class="main">
 
 ## In a Global Economy...
 
@@ -107,7 +112,7 @@ Together, we can lobby politicians to break the deadlocks, to make the EU better
 Protectionist politicians want to cut down on the four freedoms the EU guarantees to everyone of us. They say that those freedoms destroy jobs and support criminals. But the opposite is true: Those freedoms create a level playing field: Everyone of us has the same chances, no matter where in the EU they come from!
 
 <div class="with-image">
-<div class="image four-freedoms"></div>
+<div class="image" style="background-image: url('../resources/images/four-freedoms.jpg')"></div>
 
 <div class="text-block">
 
