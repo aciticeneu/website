@@ -9,7 +9,7 @@ Please sign the ["A Citizen" Statement](index.html) to show that you are a proud
 
 ## Sign with Twitter
 
-1. Follow [@acitizen_eu](https://twitter.com/acitizen_eu) on Twitter.
+1. Follow <a href="https://twitter.com/acitizen_eu" target="_blank">@acitizen_eu</a> on Twitter.
 2. [Click here](TK) to Tweet your statement.
 
 After you tweeted your statement, we will automatically register you as a follower.

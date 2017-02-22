@@ -45,7 +45,7 @@ We have to become even better at not destroying our planet. We want the EU to pu
 
 The EU is great, but we think it must become even better. Join our movement to show everyone that you want a better EU, and so we can reach out to you when we start any projects for making the EU better.
 
-[Joint our movement: Sign this statement...](sign.html)
+[Sign this statement...](sign.html)
 
 ## We Want to be Global Leaders
 
@@ -71,7 +71,7 @@ Peace and a working, healthy society can only happen when there is social justic
 
 The EU has to grow up. It has to see itself as a global super-power, not just a loose connection of nation states. But not a super power that threatens to invade or destroy others - A super power that is a global leader towards a better future for **everybody on this planet**.
 
-[Join our movement: Sign this statement...](sign.html)
+[Sign this statement...](sign.html)
 </section>
 
 <div class="banner thin" style="background-image: url('../resources/images/banner-global-economy.jpg')"></div>
@@ -105,7 +105,7 @@ When there is something wrong, we must fix it. Right now, the EU is moving too s
 
 Together, we can lobby politicians to break the deadlocks, to make the EU better and more effective. Not as a group of wealthy, shady lobbyists, but as a grass-roots movement of Europeans who care for their continent.
 
-[Join our movement: Sign this statement...](sign.html)
+[Sign this statement...](sign.html)
 
 ## We Want the Four Freedoms
 
@@ -136,7 +136,7 @@ Transferring money across the EU has become so easy and so cheap that it is even
 
 Sure, we have to avoid a race to the bottom. We have to avoid lowering income levels as a result of cheap labour that exists somewhere else in the EU. But this does not mean we have to give up our freedoms. Instead we have to create a race to the top!
 
-[Join our movement: Sign this statement...](sign.html)
+[Sign this statement...](sign.html)
 
 ## We Don't Have All the Answers
 
@@ -146,7 +146,7 @@ But that's exactly why we need this community - To bring together a group of peo
 
 Sign this statement to become a part of that community. Sign this statement to become a part of the solution!
 
-[Join our movement: Sign this statement...](sign.html)
+[Sign this statement...](sign.html)
 
 ## FAQ
 

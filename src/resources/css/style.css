@@ -76,9 +76,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	font-size: 450%;
 	margin-top: 0;
-	margin-bottom: 0.2em;
 }
 
 .banner h2 {
@@ -89,11 +87,12 @@ h1 {
 }
 
 .banner.full-height {
-	padding: 50vh 2em 0 2em;
-}
-.banner.thin {
 	height: 50vh;
 	padding: 25vh 2em 0 2em;
+}
+.banner.thin {
+	height: 25vh;
+	padding: 12vh 2em 0 2em;
 }
 
 .main {
@@ -112,24 +111,16 @@ h1 {
 }
 
 .three-columns .column {
-	width: calc(33.333% - 0.6666em);
-	margin-left: 1em;
+	width: 100%;
 
 	text-align: justify;
-	float: left;
 	box-sizing: border-box;
 }
 .four-columns .column {
-	width: calc(25% - 0.75em);
-	margin-left: 1em;
+	width: 100%;
 
 	text-align: justify;
-	float: left;
 	box-sizing: border-box;
-}
-
-.column:first-child {
-	margin-left: 0;
 }
 
 .three-columns::after {
@@ -154,19 +145,12 @@ h1 {
 }
 
 .with-image .text-block {
-	display: table-cell;
-	width: 50%;
-	padding-right: 1em;
-}
-
-.text-block:last-child {
-	padding-left: 1em;
-	padding-right: 0em;
+	width: 100%;
 }
 
 .with-image .image {
-	display: table-cell;
-	width: 50%;
+	width: 100%;
+	height: 25vh;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -182,4 +166,95 @@ a[href="sign.html"] {
 
 	border: 1px solid #555;
 	border-radius: 2px;
+}
+
+footer {
+	background: #003399;
+	color: #fff;
+	border-top: 1px solid #333;
+	padding: 0.5em 1em;
+}
+
+footer a, footer a:hover, footer a:visited, footer a:active {
+	color: #fff;
+}
+
+footer ul {
+	list-style: none;
+	padding: 0;
+}
+
+footer ul::after {
+	content: " ";
+	display: block;
+	clear: both;
+}
+
+footer li {
+	float: left;
+	margin-right: 1em;
+}
+
+footer li:last-child {
+	margin-right: 0;
+}
+
+@media (min-width: 1024px) {
+	body {
+		font-size: 14pt;
+	}
+
+	h1 {
+		font-size: 450%;
+		margin-bottom: 0.2em;
+	}
+
+	.banner.full-height {
+		height: 100vh;
+		padding: 50vh 2em 0 2em;
+	}
+	.banner.thin {
+		height: 50vh;
+		padding: 25vh 2em 0 2em;
+	}
+
+	.three-columns .column {
+		width: calc(33.333% - 0.6666em);
+		margin-left: 1em;
+
+		text-align: justify;
+		float: left;
+		box-sizing: border-box;
+	}
+	.four-columns .column {
+		width: calc(25% - 0.75em);
+		margin-left: 1em;
+
+		text-align: justify;
+		float: left;
+		box-sizing: border-box;
+	}
+	.column:first-child {
+		margin-left: 0;
+	}
+
+	.with-image .text-block {
+		display: table-cell;
+		width: 50%;
+		padding-right: 1em;
+	}
+
+	.text-block:last-child {
+		padding-left: 1em;
+		padding-right: 0em;
+	}
+
+	.with-image .image {
+		display: table-cell;
+		width: 50%;
+		height: 100%;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
 }
